@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rishitha Reddy currenty living in Gujarat, India
+- 👋 Hi, I’m Rishitha Reddy currently living in Gujarat, India
 - 🎂 16th March,2004
 - 👀 I’m interested in Ethical Hacking, Coding, Music and Football.
 - 🌱 I’m currently learning Python.
