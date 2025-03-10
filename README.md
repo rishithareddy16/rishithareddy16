@@ -66,7 +66,7 @@ https://github.com/rishithareddy16/Chatbot
 Slambook
 A fun and interactive digital slambook for friends to share memories and messages. Built with HTML, CSS, JavaScript, and Firebase for real-time data storage.
 https://github.com/rishithareddy16/Slambook
----
+
 
  🎯 **Goals for 2025**
 
